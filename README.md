@@ -57,5 +57,10 @@ I'm Ivan, a third year computer engineering student at the University of Waterlo
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
+## Contributions on a private repo 😅
+
+<img width="1920" height="740" alt="image" src="https://github.com/user-attachments/assets/42fe99dc-0d07-4121-bdc5-4f55d21e3b01" />
+
+
 
 
